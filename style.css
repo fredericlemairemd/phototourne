@@ -1,0 +1,40 @@
+img {
+    align-self: center;
+    border-radius: 4000px;
+    width: 300px;
+    height : 300px;
+    border: 10px solid white;
+    margin-top: 0px;
+}
+
+.MyClass {
+    width: 3000px;
+    height: 3000px;
+}
+
+#Top {
+background-color: blue;
+margin-left: 10%;
+margin-right: 10%;
+}
+
+#superTop {
+    background-image: linear-gradient(45deg,blue, red);
+}
+
+button {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    padding: 15px;
+    font-size: 30px;
+    border-radius: 30px;
+}
+
+p {
+    text-align: center;
+    font-size: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
